@@ -3,33 +3,33 @@
 - Phone: +44 11 111 11111
 
 ## Profile
-Noah Williams is an accomplished Software Engineering Leader with 18 years of experience, specializing in the development and strategic management of technological innovations. His expertise in API optimization, integration of AI technologies, and leadership in remote team management aligns closely with the roles at AI Fund. Noah is proficient in programming languages such as Ruby, Python, JavaScript, TypeScript, and Elixir, and has a strong educational background with an MBA in Information Technology.
+Noah Williams is a seasoned Full Stack Engineer with 18 years of experience in software development, specializing in building both front-end and back-end of applications. With a strong foundation in multiple programming languages including Java, Python, HTML/CSS, JavaScript, and frameworks such as Angular, React, and Node.js, Noah excels in developing responsive and efficient software solutions. His profound knowledge in managing databases like MySQL and MongoDB and his expertise in UI/UX design make him a perfect fit for innovative environments like AI Fund.
 
 ## Work History
 
 ### DataKernel: Director of Software Engineering (remote) — 2022 - Present
-- Transformed the engineering division into a key revenue pillar through strategic initiatives and integration of cutting-edge AI technologies.
-- Led the adoption of scalable vector databases, enhancing product capabilities and market positioning.
-- Focused on long-term strategic goals, aligning technology developments with business objectives.
+- Transformed the engineering division into a key revenue pillar by developing and managing well-functioning databases and applications, aligning perfectly with the responsibilities at AI Fund.
+- Led the integration of cutting-edge AI technologies, demonstrating his familiarity with AI/ML models and big data tools.
+- Enhanced product capabilities through effective API writing and advanced data protection settings.
 
 ### DataKernel: Senior Software Engineering Manager (remote) — 2019 - 2022
-- Directed engineering strategy and operations in collaboration with C-level executives, enhancing team performance and morale across multiple time zones.
-- Spearheaded recruitment, mentoring, and retention of top talent, fostering a culture of continuous improvement.
+- Directed engineering strategies that included the development of desktop and mobile applications, showcasing his ability to handle full-stack development tasks.
+- Enhanced communication within teams spread across different time zones, aligning with the need for excellent communication skills required by AI Fund.
 
 ### InnovPet: Founder & CEO (remote) — 2019 - 2022
-- Founded and led a startup focused on innovative IoT solutions for pet care, demonstrating leadership from concept through execution.
+- Spearheaded the entire product development cycle from concept to execution, highlighting his strong project management and organizational skills.
 
 ### EliteDevs: Engineering Manager (remote) — 2018 - 2019
-- Implemented strategic plans improving inter-departmental coordination, and managed multiple engineering teams to balance productivity with innovation.
+- Implemented new product features using Ruby on Rails and React, demonstrating proficiency in multiple front-end and back-end technologies.
 
 ### PrintPack: Engineering Manager (remote) — 2016 - 2018
-- Developed and led a high-performance engineering team, integrating data analytics into business processes to revolutionize customer behavior analysis.
+- Integrated data analytics for business decision-making, showcasing his ability to utilize big data tools effectively.
 
 ### DriveAI: Senior Software Engineer (remote) — 2015 - 2016
-- Developed and optimized central APIs and implemented advanced caching strategies, significantly enhancing system performance and user satisfaction.
+- Optimized central APIs and implemented caching strategies, directly addressing the job requirement to develop and manage well-functioning applications.
 
 ### BetCraft: CTO — 2013 - 2015
-- Led technology strategy post-funding, guiding technological advancements and strategic partnerships to enhance platform performance and market reach.
+- Managed technology strategy and improved platform performance using React and Angular, which are essential skills for the Full Stack Engineer role at AI Fund.
 
 ## Education
 
@@ -45,4 +45,4 @@ Coursera (Johns Hopkins University) - Certification
 ### B.Sc. in Computer Science
 University of Edinburgh - Bachelor’s degree
 
-Noah Williams is highly suited for senior executive roles requiring strategic leadership and technological innovation, particularly in dynamic environments like AI Fund.
+Noah's extensive experience as a Full Stack Developer, his strategic vision in technology leadership, and his robust technical skills make him an excellent candidate for the Full Stack Engineer role at AI Fund. His profile demonstrates a strong match with the job’s requirements, emphasizing his ability to lead, innovate, and efficiently execute software solutions.
