@@ -1,5 +1,5 @@
 
-# Automated Trello Board Data Analysis and Reporting
+# L2: Automated Trello Board Data Analysis and Reporting
 
 This project automates the data collection, analysis, and reporting process for Trello board data, using specialized CrewAI agents to retrieve and process information efficiently.
 
