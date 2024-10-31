@@ -36,4 +36,3 @@ result = crew.kickoff(inputs=inputs)
 # Display Results
 print(result.pydantic.dict())
 ```
-
