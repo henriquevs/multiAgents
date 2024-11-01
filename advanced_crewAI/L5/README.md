@@ -1,5 +1,5 @@
 
-# Automated Content Creation at Scale
+# L5: Automated Content Creation at Scale
 
 This project automates large-scale content creation using CrewAI agents that handle monitoring, data analysis, content generation, and quality assurance. The output includes a structured article and social media posts related to a specified topic.
 
