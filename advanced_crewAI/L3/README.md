@@ -1,7 +1,7 @@
 
 # L3: Automated Lead Qualification and Email Engagement
 
-This project automates the lead qualification and email engagement process through a coordinated flow of specialized agents. Each agent in CrewAI is assigned a unique role to ensure effective scoring, engagement, and communication with potential leads.
+This experiment automates the lead qualification and email engagement process through a coordinated flow of specialized agents. Each agent in CrewAI is assigned a unique role to ensure effective scoring, engagement, and communication with potential leads.
 
 ## Key Components
 
@@ -53,4 +53,3 @@ display(df)
 costs = 0.150 * flow.state["score_crews_results"][0].token_usage.total_tokens / 1_000_000
 print(f"Total costs: ${costs:.4f}")
 ```
-

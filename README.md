@@ -32,5 +32,5 @@ A repository dedicated to exploring and implementing various multi-agent systems
 ### Prerequisites
 ```bash
 # Required dependencies
-python >= 3.11
+python >= 3.10
 crewai
