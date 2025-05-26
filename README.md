@@ -15,6 +15,12 @@ The MultiAgents project is a collection of experiments and implementations explo
 
 - **2_optimizing_latency/**: Focuses on optimizing latency in voice interactions and collecting performance metrics. [Optimize Latency](./ai_voice_agents/2_optimizing_latency/project.ipynb)
 
+### `web_agents/`
+
+- **1_simple_web_agent/**: Basic web agent implementation and demonstration.
+- **2_autonomous_web_agents/**: Advanced autonomous web agent using the MultiOn API, with session management, navigation, and task execution. Includes workflows for automating real-world web tasks and a demo interface for step-by-step task execution and visualization.
+- **3_agentQ_MCTS/**: Integration of AgentQ and Monte Carlo Tree Search (MCTS) for web-based environments. Features gridworld visualization, browser-based agent planning, and tools for analyzing the agent's search tree and decision process.
+
 ### `advanced_crewAI/`
 
 - Contains lessons (L1 to L6) exploring advanced AI techniques for crew management and decision-making. [Explore Advanced CrewAI](./advanced_crewAI/)
