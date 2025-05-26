@@ -21,7 +21,7 @@
 3. **Direct Preference Optimization (DPO)**  
    - Reinforcement learning algorithm that improves based on the current experience
 
-## MCTS
+## MCTS ( explores possibilities )
 
 1. **Search Methodology** for backtracking and exploring
 2. **Exploitation**: Try to find the best path to explore
@@ -30,11 +30,11 @@
    - This tells the algorithm "hey, this path led to these results, so update your knowledge accordingly"
    - These steps repeat many times
 
-## Self-critique
+## Self-critique ( evaluate options )
 
 - Uses an LLM critique to give feedback and improve reasoning
 
-## DPO
+## DPO ( learn )
 
 - Reinforcement Learning with Human Feedback (RLHF)
 - Refines preference and learns from both successful and failed trajectories
